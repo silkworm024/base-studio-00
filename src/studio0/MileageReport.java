@@ -1,6 +1,6 @@
 package studio0;
 
-public class MilageReport {
+public class MileageReport {
 	
 	public static void main(String[] args) {
 		int car1miles = 250;
